@@ -1,4 +1,4 @@
 CDLabel
 =======
 
-CD Label model for free printing
+CD Label models for free printing
